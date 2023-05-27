@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tamesj
-- 👀 I’m interested in Software
-- 🌱 I’m a student currently learning Software Development
-- 📫 How to reach me 
+- 👀 I’m interested in tavel, Space, AI
+- 🌱 I’m currently learning Python/Sofware Development.
+- 📫 How to reach me-email.
 
 <!---
 tamesj/tamesj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
